@@ -1,16 +1,16 @@
-'use strict';   // dont touch
+module.exports = {
 // [General]
-this.name = ""; // Name of plugin REQUIRED
-this.author = ""; // author REQUIRED
-this.description = 'Notifies the server if a player joins'; // Desciprtion
-this.minVersion = ''; // minimum version requirements (optional)
-this.version = ''; // version REQUIRED
+name: "", // Name of plugin REQUIRED
+author: "", // author REQUIRED
+description: '', // Desciprtion
+minVersion: '', // minimum version requirements (optional)
+version:  '', // version REQUIRED
 
 // [Functions]
-this.init = function (data) {
+init: function (data) {
   // init, Used to do stuff such as overriding things
-};
-this.beforeSpawn = function(data) {
-    return true;
+},
+beforeSpawn: function(data) {
+   return true;
 }
-module.exports = this; // dont touch
+}
