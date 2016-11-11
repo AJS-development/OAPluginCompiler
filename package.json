@@ -6,7 +6,9 @@
   "engines": {
     "node": "5.9.0"
   },
-  
+  "dependencies": {
+    "decomment":"latest"
+  },
   "devDependencies": {},
   "repository": {
     "type": "git",
