@@ -6,4 +6,4 @@ Plugin Compiler for OpenAgar
 1. Make your plugin inside the ./plugin folder
 2. do `node compiler.js`
 3. run `npm install`
-4.. Your plugin is now at ``plugin.ajs``
+4. Your plugin is now at ``plugin.ajs``
