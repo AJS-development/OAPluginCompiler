@@ -1,5 +1,5 @@
 {
-  "name": "OpenAgar Compiler",
+  "name": "openagarcompiler",
   "version": "1.0.0",
   "description": "Compiler for OpenAgar",
   "main": "index.js",
