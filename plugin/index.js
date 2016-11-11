@@ -5,7 +5,9 @@ author: "", // author REQUIRED
 description: '', // Desciprtion
 minVersion: '', // minimum version requirements (optional)
 version:  '', // version REQUIRED
-
+addToHelp: false, // add to help
+ commands: false, // commands
+  
 // [Functions]
 init: function (data) {
   // init, Used to do stuff such as overriding things
