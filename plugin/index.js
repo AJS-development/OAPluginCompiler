@@ -9,7 +9,7 @@ addToHelp: false, // add to help
  commands: false, // commands
  configFile: false, //config file
 // [Functions]
-init: function (data) {
+init: function (data,configs) {
   // init, Used to do stuff such as overriding things
 },
 beforeSpawn: function(data) {
