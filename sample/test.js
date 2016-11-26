@@ -1,4 +1,4 @@
-module.exports = function(str,main,log,dir) { // str = the string, main = server object, log = log function, dir = base dir
+module.exports = function(str,main,log,dir) { // str = the string, main = server object, log = log function, dir = core dir
   /*
   There are three ways you can get command arguments
   
